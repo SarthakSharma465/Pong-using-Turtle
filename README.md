@@ -5,11 +5,11 @@ Pong is one of the first computer games that ever created, this simple "tennis l
 The goal is to defeat your opponent by being the first one to gain10 point, a player gets a point once the opponent misses a ball.
 
 ## Screenshots
-![Game](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/1.png).
-![Paddle A](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Screenshot%20(541).png).
-![Paddle B](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Screenshot%20(542).png).
-![Functions](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Screenshot%20(539).png).
-![Border Conditions](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Screenshot%20(540).png).
+- ![Game](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/1.png)
+- ![Paddle A](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Screenshot%20(541).png)
+- ![Paddle B](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Screenshot%20(542).png)
+- ![Functions](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Screenshot%20(539).png)
+- ![Border Conditions](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Screenshot%20(540).png)
 
 ## Technologies Used
 
