@@ -6,10 +6,10 @@ The goal is to defeat your opponent by being the first one to gain10 point, a pl
 
 ## Screenshots
 - ![Game](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Game.png)
-- ![Paddle A](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Paddle A.png)
-- ![Paddle B](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Paddle B.png)
+- ![Paddle A](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Paddle%A.png)
+- ![Paddle B](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Paddle%B.png)
 - ![Functions](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Functions.png)
-- ![Border Conditions](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Border Conditions.png)
+- ![Border Conditions](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Border%Conditions.png)
 
 ## Technologies Used
 
