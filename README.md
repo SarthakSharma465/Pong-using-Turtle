@@ -4,7 +4,8 @@
 Pong is one of the first computer games that ever created, this simple "tennis like" game features two paddles and a ball.
 The goal is to defeat your opponent by being the first one to gain10 point, a player gets a point once the opponent misses a ball.
 
-
+## Screenshots
+![alt text](https://github.com/SarthakSharma465/Pong-using-Turtle/blob//main/Screenshots/Screenshot%20(539).png)
 
 ## Technologies Used
 
